@@ -1,6 +1,7 @@
 //import './App.sass';
 
 import Header from "./views/header";
+import Searchbar from "./views/Searchbar";
 import TopOffers from "./views/TopOffers";
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
     return (
         <div>
             <TopOffers title={a}></TopOffers>
-            <Header></Header>
+            <Searchbar info={"Esta la info por destructuring"}></Searchbar>
         </div>
 );
 }
