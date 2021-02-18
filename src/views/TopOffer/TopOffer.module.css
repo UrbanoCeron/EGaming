@@ -1,0 +1,18 @@
+
+.wp {
+    background: var(--bck-color);
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 0px 32px
+}
+
+.vigency {
+    color: white;
+    text-align: center;
+    margin: 0px 32px;
+}

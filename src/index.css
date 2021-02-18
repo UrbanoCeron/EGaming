@@ -30,3 +30,7 @@ code {
 }
 
 /* TODO: CREAR ESTILOS GENERALES COLORES  */
+:root {
+  --bck-color: black ;
+  --eg-primary: red;
+}
