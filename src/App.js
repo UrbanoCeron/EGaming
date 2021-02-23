@@ -8,6 +8,9 @@ function App() {
             <h1>Este es un conflicto</h1>
             <TopOfFer title={a}></TopOfFer>
             <Searchbar info={"Esta la info por destructuring"}></Searchbar>
+            <p>
+                loremaldkjasdkjalkdjaldjlakdjladjaljd
+            </p>
         </div>
 );
 }
