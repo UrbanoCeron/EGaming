@@ -11,7 +11,9 @@ function App() {
             <p>
                 loremaldkjasdkjalkdjaldjlakdjladjaljd
             </p>
+            <h1> Hola mundo</h1> 
         </div>
+        
 );
 }
 
