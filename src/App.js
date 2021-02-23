@@ -7,7 +7,9 @@ function App() {
         <div>
             <TopOfFer title={a}></TopOfFer>
             <Searchbar info={"Esta la info por destructuring"}></Searchbar>
+            <h1> Hola mundo</h1> 
         </div>
+        
 );
 }
 
