@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import Firebase from "./config-fb/config";
 import Searchbar from "./views/Searchbar";
 import TopOfFer from "./views/TopOffer/TopOffer"
+import CardSection from "./Components/CardSection/CardSection"
 
 
 
@@ -21,9 +22,12 @@ const App = () => {
             <TopOfFer title={a}></TopOfFer>
             <Searchbar info={"Esta la info por destructuring"}></Searchbar>
             <p>
-                loremaldkjasdkjalkdjaldjlakdjladjaljd
+                loremaldkjasdkjalkdjaldjlakdjladjaljds
             </p>
             <h1> Hola mundo</h1> 
+
+            <CardSection></CardSection>
+
         </div>
         
 );
