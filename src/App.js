@@ -3,7 +3,7 @@ import Firebase from "./config-fb/config";
 import Searchbar from "./views/Searchbar";
 import TopOfFer from "./views/TopOffer/TopOffer"
 import CardSection from "./Components/CardSection/CardSection"
-
+import NadBar from "./Components/NavBar/NadBar"
 
 
 const App = () => {
@@ -22,9 +22,7 @@ const App = () => {
 
     return (
         <div>
-            {/* { 
-                state && state.map( (item,i) => <CardSection key={i} {...item} ></CardSection>  )
-            } */}
+            <NadBar ></NadBar>
         </div>
         
 );
