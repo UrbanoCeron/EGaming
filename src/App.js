@@ -9,7 +9,7 @@ function App() {
             <TopOfFer title={a}></TopOfFer>
             <Searchbar info={"Esta la info por destructuring"}></Searchbar>
             <p>
-                loremaldkjasdkjalkdjaldjlakdjladjaljd
+                loremaldkjasdkjalkdjaldjlakdjladjaljds
             </p>
             <h1> Hola mundo</h1> 
 
