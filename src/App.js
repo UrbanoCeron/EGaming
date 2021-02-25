@@ -12,6 +12,9 @@ function App() {
                 loremaldkjasdkjalkdjaldjlakdjladjaljd
             </p>
             <h1> Hola mundo</h1> 
+
+            <CardSection></CardSection>
+
         </div>
         
 );
